@@ -1,4 +1,4 @@
--- Connor Hehn Midterm
+-- Connor Hehn
 drop table TruckQueue
 go
 create table TruckQueue (
