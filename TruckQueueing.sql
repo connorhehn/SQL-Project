@@ -225,6 +225,7 @@ end;
 go
 
 
+	
 -- TESTS
 -- Test Case 1 (All small trucks)
 delete from TruckQueue
